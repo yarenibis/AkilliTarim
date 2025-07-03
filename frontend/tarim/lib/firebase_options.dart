@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBy1lOE8zFCgPw3tzsriTjf2Dae0TypdTY',
+    apiKey: '***YOUR API KEY ****',
     appId: '1:243676341259:web:dd3c1fed250d0743e1930e',
     messagingSenderId: '243676341259',
     projectId: 'tarim-41e24',
