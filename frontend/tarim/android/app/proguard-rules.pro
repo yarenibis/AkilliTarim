@@ -1,0 +1,2 @@
+-assumenosideeffects class org.tensorflow.lite.gpu.** { *; }
+-dontwarn org.tensorflow.lite.gpu.**

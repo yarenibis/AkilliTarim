@@ -1,0 +1,35 @@
+{
+  "apple": {
+    "Apple Scab": "Elma yapraklarında kabuklanma ve lekeler tespit edildi. Fungisit uygulamasına erken başlanması önerilir.",
+    "Black Rot": "Elmalarda siyah çürüklük belirtileri gözlendi. Enfekte meyveler temizlenmeli ve mantar ilacı kullanılmalıdır.",
+    "Cedar Apple Rust": "Sedir elma pası hastalığına rastlandı. Elma ve sedir ağaçlarının birbirinden uzak dikilmesi tavsiye edilir.",
+    "Healthy": "Elma yaprakları ve meyveler sağlıklı görünüyor. Mevcut bakım rutini korunabilir."
+  },
+  "corn": {
+    "Blight": "Mısırda yanıklık hastalığı belirtileri var. Hava akışı artırılmalı ve dirençli tohum tercih edilmelidir.",
+    "Common_Rust": "Yaygın pas hastalığı tespit edildi. Gerekirse uygun bir fungisit uygulanabilir.",
+    "Gray_Leaf_Spot": "Gri yaprak lekesi görüldü. Etkilenen yapraklar temizlenmeli ve hastalık ilerlemeden müdahale edilmelidir.",
+    "Healthy": "Mısır bitkisi sağlıklı. Düzenli sulama ve gübreleme ile devam edilebilir."
+  },
+  "grape": {
+    "Black rot": "Üzümde siyah çürüklük var. Enfekte alanlar budanmalı ve uygun ilaçlama yapılmalıdır.",
+    "ESCA": "Üzümde Esca odun hastalığı belirtileri tespit edildi. Hasta dallar budanmalı ve yayılma kontrol altına alınmalıdır.",
+    "Healthy": "Üzüm yaprakları ve salkımları sağlıklı görünüyor. Mevcut bakım programı sürdürülebilir.",
+    "Leaf Blight": "Yaprak yanıklığı mevcut. Hava sirkülasyonu artırılmalı ve bitki beslemesi güçlendirilmelidir."
+  },
+  "potato": {
+    "Early_Blight": "Patates bitkisinde erken yanıklık hastalığı gözlemlendi. Düzenli ilaçlama önerilir.",
+    "Healthy": "Patates bitkisi sağlıklı. Toprak kontrolü ve sulama düzeni aynı şekilde devam ettirilebilir.",
+    "Late_Blight": "Geç yanıklık hastalığı belirtileri görüldü. Hızlı müdahale için uygun fungusit kullanılmalıdır."
+  },
+  "insect": {
+    "Boxelder Bugs": "Dişbudak ağacı böceği tespit edildi. Kimyasal olmayan doğal uzaklaştırıcılar kullanılabilir.",
+    "Cabbage Looper": "Lahana kıvrım tırtılı gözlemlendi. Yapraklar zarar görebilir, biyolojik mücadele önerilir.",
+    "Cutworm": "Toprak yüzeyinde kesici kurtlar var. Gece aktif olan bu zararlıya karşı toprağın işlenmesi önerilir.",
+    "Epilachna vigintioctopunctata": "28 noktalı Asya hanım böceği zararı tespit edildi. Hızla çoğalabileceği için kontrol edilmelidir.",
+    "Flea Beetles": "Pire böcekleri yapraklarda küçük delikler oluşturmuş. Bitkiyi zayıflatmadan önce müdahale edilmeli.",
+    "Mediterranean fruit fly": "Akdeniz meyve sineği meyvelerde delikler oluşturabilir. Tuzaklarla izlenmeli ve kontrol edilmelidir.",
+    "Riptortus": "Riptortus zararlısı görüldü. Özellikle meyve ve tohumlara zarar verebilir, biyolojik önlemler alınmalıdır.",
+    "Squash Bug": "Kabak böceği tespit edildi. Bitkinin sap ve gövdelerine zarar verdiği için erken müdahale önemlidir."
+  }
+}
